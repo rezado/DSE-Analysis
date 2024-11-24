@@ -1,0 +1,308 @@
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Emu compiled at Nov 20 2024, 22:46:10
+Using simulated 32768B flash
+[info]use ./dse-driver/build/dse.bin as flash bin
+reset dse complete
+core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016180
+instrCnt: 148 cycles: 9147
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total time (ms)  : 11882
+Iterations       : 10
+Compiler version : GCC15.0.0 20240611 (experimental)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xfcaf
+Finished in 11882 ms.
+==================================================
+CoreMark Iterations/Sec 841
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Hit good trap at pc = 0x80001d18, instrCnt = 3196836, cycleCnt = 1248635
+ipc: 2.560265
+Core start to reset at pc = 0x80001d18
+Core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016182
+instrCnt: 89 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total time (ms)  : 11882
+Iterations       : 10
+Compiler version : GCC15.0.0 20240611 (experimental)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xfcaf
+Finished in 11882 ms.
+==================================================
+CoreMark Iterations/Sec 841
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Hit good trap at pc = 0x80001d18, instrCnt = 3196836, cycleCnt = 1248635
+ipc: 2.560265
+Core start to reset at pc = 0x80001d18
+Core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016041
+instrCnt: 88 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total time (ms)  : 11859
+Iterations       : 10
+Compiler version : GCC15.0.0 20240611 (experimental)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xfcaf
+Finished in 11859 ms.
+==================================================
+CoreMark Iterations/Sec 843
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Hit good trap at pc = 0x80001d18, instrCnt = 3196836, cycleCnt = 1246460
+ipc: 2.564732
+Core start to reset at pc = 0x80001d18
+Core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016182
+instrCnt: 89 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total time (ms)  : 11862
+Iterations       : 10
+Compiler version : GCC15.0.0 20240611 (experimental)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xfcaf
+Finished in 11862 ms.
+==================================================
+CoreMark Iterations/Sec 843
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Hit good trap at pc = 0x80001d18, instrCnt = 3196836, cycleCnt = 1249122
+ipc: 2.559266
+Core start to reset at pc = 0x80001d18
+Core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016041
+instrCnt: 88 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total time (ms)  : 13266
+Iterations       : 10
+Compiler version : GCC15.0.0 20240611 (experimental)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xfcaf
+Finished in 13266 ms.
+==================================================
+CoreMark Iterations/Sec 753
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Hit good trap at pc = 0x80001d18, instrCnt = 3196836, cycleCnt = 1390475
+ipc: 2.299096
+Core start to reset at pc = 0x80001d18
+Core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016182
+instrCnt: 89 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total time (ms)  : 17071
+Iterations       : 10
+Compiler version : GCC15.0.0 20240611 (experimental)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xfcaf
+Finished in 17071 ms.
+==================================================
+CoreMark Iterations/Sec 585
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Hit good trap at pc = 0x80001d18, instrCnt = 3196836, cycleCnt = 1774232
+ipc: 1.801814
+Core start to reset at pc = 0x80001d18
+Core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016041
+instrCnt: 88 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total time (ms)  : 27161
+Iterations       : 10
+Compiler version : GCC15.0.0 20240611 (experimental)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xfcaf
+Finished in 27161 ms.
+==================================================
+CoreMark Iterations/Sec 368
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Hit good trap at pc = 0x80001d18, instrCnt = 3196836, cycleCnt = 2793053
+ipc: 1.144567
+Core start to reset at pc = 0x80001d18
+Core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016182
+instrCnt: 89 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total time (ms)  : 56805
+Iterations       : 10
+Compiler version : GCC15.0.0 20240611 (experimental)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xfcaf
+Finished in 56805 ms.
+==================================================
+CoreMark Iterations/Sec 176
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Hit good trap at pc = 0x80001d18, instrCnt = 3196836, cycleCnt = 5780582
+ipc: 0.553030
+Core start to reset at pc = 0x80001d18
+Core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016041
+instrCnt: 88 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+2K performance run parameters for coremark.
+CoreMark Size    : 666
+Total time (ms)  : 11882
+Iterations       : 10
+Compiler version : GCC15.0.0 20240611 (experimental)
+seedcrc          : 0xe9f5
+[0]crclist       : 0xe714
+[0]crcmatrix     : 0x1fd7
+[0]crcstate      : 0x8e3a
+[0]crcfinal      : 0xfcaf
+Finished in 11882 ms.
+==================================================
+CoreMark Iterations/Sec 841
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Hit good trap at pc = 0x80001d18, instrCnt = 3196836, cycleCnt = 1248635
+ipc: 2.560265
+Core start to reset at pc = 0x80001d18
+Core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 0.016182
+instrCnt: 89 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using ./ready-to-run/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations

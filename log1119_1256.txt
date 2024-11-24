@@ -1,0 +1,343 @@
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+Emu compiled at Nov 19 2024, 00:36:24
+Using simulated 32768B flash
+[info]use /nfs/home/wujiabin/work/xs-env/nexus-am/test/dse/dse.bin as flash bin
+reset dse complete
+core reset complete
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 109.325462
+instrCnt: 1000000 cycles: 9147
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 800008a4
+ipc: 2.352305
+instrCnt: 1000000 cycles: 425115
+DSE reset finish at pc: 800008a4, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 181.818182
+instrCnt: 1000000 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 800008a4
+ipc: 2.352305
+instrCnt: 1000000 cycles: 425115
+DSE reset finish at pc: 800008a4, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 182.282173
+instrCnt: 1000000 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 800008a4
+ipc: 2.350707
+instrCnt: 1000000 cycles: 425404
+DSE reset finish at pc: 800008a4, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 181.818182
+instrCnt: 1000000 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 8000089c
+ipc: 2.352266
+instrCnt: 1000000 cycles: 425122
+DSE reset finish at pc: 800008a0, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 182.282173
+instrCnt: 1000000 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 8000089c
+ipc: 2.150760
+instrCnt: 1000000 cycles: 464952
+DSE reset finish at pc: 800008a0, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 181.818182
+instrCnt: 1000000 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 8000089c
+ipc: 1.729054
+instrCnt: 1000000 cycles: 578351
+DSE reset finish at pc: 800008a0, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 182.282173
+instrCnt: 1000000 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 8000089c
+ipc: 1.118685
+instrCnt: 1000000 cycles: 893907
+DSE reset finish at pc: 800008a0, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 181.818182
+instrCnt: 1000000 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 8000089c
+ipc: 0.544198
+instrCnt: 1000000 cycles: 1837566
+DSE reset finish at pc: 8000089c, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 182.282173
+instrCnt: 1000000 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 800008a4
+ipc: 2.352305
+instrCnt: 1000000 cycles: 425115
+DSE reset finish at pc: 800008a4, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 181.818182
+instrCnt: 1000000 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 800008a4
+ipc: 2.352305
+instrCnt: 1000000 cycles: 425115
+DSE reset finish at pc: 800008a4, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 182.282173
+instrCnt: 1000000 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 800008a4
+ipc: 2.352305
+instrCnt: 1000000 cycles: 425115
+DSE reset finish at pc: 800008a4, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 181.818182
+instrCnt: 1000000 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 800008a4
+ipc: 2.352305
+instrCnt: 1000000 cycles: 425115
+DSE reset finish at pc: 800008a4, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 182.282173
+instrCnt: 1000000 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 800008a4
+ipc: 2.352305
+instrCnt: 1000000 cycles: 425115
+DSE reset finish at pc: 800008a4, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 181.818182
+instrCnt: 1000000 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 800008a4
+ipc: 2.350707
+instrCnt: 1000000 cycles: 425404
+DSE reset finish at pc: 800008a4, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 182.282173
+instrCnt: 1000000 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 8000089c
+ipc: 2.352266
+instrCnt: 1000000 cycles: 425122
+DSE reset finish at pc: 800008a0, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 181.818182
+instrCnt: 1000000 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 8000089c
+ipc: 2.150760
+instrCnt: 1000000 cycles: 464952
+DSE reset finish at pc: 800008a0, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 182.282173
+instrCnt: 1000000 cycles: 5486
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+[1;34m[src/device/io/mmio.c:38,add_mmio_map] Add mmio map 'flash' at [0x0000000010000000, 0x00000000100fffff][0m
+DSE reset start at pc: 8000089c
+ipc: 1.729054
+instrCnt: 1000000 cycles: 578351
+DSE reset finish at pc: 800008a0, reset vector: 10000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+DSE reset start at pc: 1000016c
+ipc: 181.818182
+instrCnt: 1000000 cycles: 5500
+DSE reset finish at pc: 10000170, reset vector: 80000000
+The image is /nfs/home/wujiabin/work/xs-env/nexus-am/apps/coremark/build/coremark-riscv64-xs.bin
+Using simulated 8192MB RAM
+NemuProxy using /nfs/home/wujiabin/work/xs-env/NEMU/build/riscv64-nemu-interpreter-so
+The first instruction of core 0 has commited. Difftest enabled. 
+Running CoreMark for 10 iterations
